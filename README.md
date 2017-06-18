@@ -1,7 +1,7 @@
-phantomjs-3rdparty-win
+chromessjs-3rdparty-win
 ======================
 
-3rd party libraries for building PhantomJS 2 on Windows platform
+3rd party libraries for building chromessJS 2 on Windows platform
 
 Version
 ======================
